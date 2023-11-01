@@ -7,7 +7,7 @@ In the first part of the project, was used Ranorex to test the "GLPI" (Web appli
 ### Official Test
 In the official text, was used Selenium WebDriver (in Python) for test the 
 
-###### What is Selenium?
+##### What is Selenium?
 
 > [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium/blob/478b430596d54bd432edcd09a0b187f2a6175e1b/README.md#o-que-%C3%A9-o-selenium)
 
