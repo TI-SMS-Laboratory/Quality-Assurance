@@ -6,7 +6,7 @@
 This repository is destined to files from the QA part of SMS projects
 
 ### Base Test 
-In the first part of the project, was used Ranorex to test the "GLPI" (Web application to open tickets in the enterprise). Were selected some flows to be tested that can be acessed in this repository.
+In the first part of the project, was used Ranorex to test the "GLPI" (Web application to open tickets in the enterprise). Were selected some flows to be tested that can be acessed in <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/GLPI_Ranorex.rxsln"> here</a>.
 
 ### Official Test
 In the official text, was used Selenium IDE for test the 
