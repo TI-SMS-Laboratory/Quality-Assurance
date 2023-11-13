@@ -1,3 +1,7 @@
+<a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>
+
+<div>
+  
 # Quality-Assurance
 This repository is destined to files from the QA part of SMS projects
 
@@ -23,3 +27,11 @@ The project is made possible by volunteer contributors who've
 generously donated thousands of hours in code development and upkeep.
 
 Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
+
+
+</div>
+
+
+<a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>
+
+ <!-- <button href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md">PT-BR Version</button> -->
