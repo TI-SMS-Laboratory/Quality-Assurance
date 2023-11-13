@@ -31,7 +31,4 @@ Selenium's source code is made available under the [Apache 2.0 license](https://
 
 </div>
 
-
 <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>
-
- <!-- <button href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md">PT-BR Version</button> -->
