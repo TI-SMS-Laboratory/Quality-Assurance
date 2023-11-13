@@ -33,7 +33,8 @@ O código-fonte do Selenium está disponível sob o nome [Apache 2.0 license](ht
 </div>
 
 
-<!-- <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/README.md" target="_blank"> English Version </a> -->
+<a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/README.md"><button>English Version</button></a>
+  <input type="submit" value="teste"/>
+</form>
 
-
-  <button value="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md">PT-BR Version</button> 
+<button value="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md">PT-BR Version</button> 
