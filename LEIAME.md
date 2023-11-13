@@ -6,7 +6,7 @@
 Esse repositório é destinado aos arquivos de testes QA dos projetos da SMS.
 
 ### Teste Básico
-Na primeira parte do projeto, foi usado o Ranorex para testar o "GLPI" (Aplicativo web para abrir chamados na empresa). Foi selecionado alguns fluxos para serem estadis e podem ser acessados neste repositório.
+Na primeira parte do projeto, foi usado o Ranorex para testar o "GLPI" (Aplicativo web para abrir chamados na empresa). Foi selecionado alguns fluxos para serem testados e podem ser acessados <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/GLPI_Ranorex.rxsln"> aqui</a>.
 
 ### Teste Oficial 
 No teste odicial, foi usado o Selenium IDE para testar o
