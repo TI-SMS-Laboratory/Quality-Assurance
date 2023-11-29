@@ -1,7 +1,9 @@
 <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>
 
+![Badge under development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge)
+
 <div>
-  
+
 # Quality-Assurance
 This repository is destined to files from the QA part of SMS projects
 
