@@ -1,5 +1,7 @@
 <a href="https://github.com/TI-SMS-Laboratory/Quality-Assurance/blob/main/README.md" target="_blank"> English Version </a>
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 <div>
   
 # Garantia de Qualidade
